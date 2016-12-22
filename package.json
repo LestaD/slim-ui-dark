@@ -1,7 +1,7 @@
 {
   "name": "slim-dark",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A dark slim UI theme for Atom",
   "license": "MIT",
   "repository": "https://github.com/lestad/slim-ui-dark",
